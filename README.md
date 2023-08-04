@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy Lizandro Narvaez</h1>
 <h3 align="center">Un desarrollador Full-Stack, con ganas de seguir creciendo como desarrollador profesional, mi rama favorita es el Backend, pero la curiosidad por conocer el frontend me llevo a tener conocimientos en ambas.</h3>
 
-- 👨‍💻 Puedes visitar mi portfolio [https://portfoliolizandro.netlify.app/](https://portfoliolizandro.netlify.app/)
+- 👨‍💻 Puedes visitar mi portfolio [https://react-portfolio-lizandro.vercel.app/](https://react-portfolio-lizandro.vercel.app/)
 
 - 📫 Mi email de contacto **lizandrojesus13@hotmail.com**
 
