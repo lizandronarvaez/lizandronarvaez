@@ -1,6 +1,6 @@
 
 <h1 align="center">Hola, soy Lizandro Narvaez</h1>
-<h3 align="center">Mi rama favorita es el Backend, pero la curiosidad por conocer el frontend me llevo a tener conocimientos en ambas.</h3>
+<h3 align="center">Mi rama favorita es el Backend, pero la curiosidad por conocer el frontend me llevó a tener conocimientos en ambas.</h3>
 
 - 👨‍💻 Puedes visitar mi portfolio [https://react-portfolio-lizandro.vercel.app/](https://react-portfolio-lizandro.vercel.app/)
 
