@@ -4,9 +4,9 @@
 
 ## Sobre mí
 
-🎓 **Autodidacta de corazón:** Me encanta aprender de forma autónoma y resolver problemas.
+🎓 **Autodidacta:** Me encanta aprender de forma autónoma y resolver problemas.
 
-💻 **Stack Principal:** Actualmente estoy trabajando con tecnologías como **React**, **Spring-Boot**, **Node.js**, **Express**, y **PostgreSql**.
+💻 **Stack:** **Java**,**SpringBoot**,**Angular**,**PostgreSql**.
 
 🌱 **En constante aprendizaje:** Me gusta mantenerme al día con las últimas tecnologías en desarrollo frontend y backend.
 
@@ -32,24 +32,19 @@
   <tr>
     <th align="center">Frontend</th>
     <td align="center">
+      <img src="https://www.svgrepo.com/show/373427/angular.svg" height="60" alt="angular"  />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/>
-      <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  /> -->
   </tr>
   <tr>
     <th align="center">Backend</th>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="60" alt="java logo"  />
       <img src="https://www.svgrepo.com/show/376350/spring.svg" height="60" alt="springboot logo"  />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="expressjs logo"  />
     </td>
   </tr>
   <tr>
     <th align="center">Bases de datos</th>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
       <img src="https://www.svgrepo.com/show/354200/postgresql.svg" height="60" alt="postgresql logo"  />
     </td>
   </tr>
