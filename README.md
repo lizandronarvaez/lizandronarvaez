@@ -13,7 +13,7 @@
 ## 🌐 Portfolio y Contacto
 
 - 👨‍💻 **Visita mi Portfolio:**  
-  [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visítame-blue?style=for-the-badge&logo=react)](https://react-portfolio-lizandro.vercel.app/)
+  [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Visítame-blue?style=for-the-badge&logo=react)](https://portfolio-lizandro-narvaez.vercel.app/)
 
 - 📫 **Email de Contacto:**  
   [![Email Badge](https://img.shields.io/badge/Email-Escríbeme-blue?style=for-the-badge&logo=microsoft-outlook)](mailto:lizandrojesus13@hotmail.com)
