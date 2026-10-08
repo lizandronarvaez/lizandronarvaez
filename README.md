@@ -6,7 +6,7 @@
 
 🎓 **Autodidacta:** Me encanta aprender de forma autónoma y resolver problemas.
 
-💻 **Stack:** **Java**,**SpringBoot**,**Angular**,**PostgreSql**.
+💻 **Stack:** **Java**, **SpringBoot**, **Angular**, **PostgreSql**.
 
 🌱 **En constante aprendizaje:** Me gusta mantenerme al día con las últimas tecnologías en desarrollo frontend y backend.
 
